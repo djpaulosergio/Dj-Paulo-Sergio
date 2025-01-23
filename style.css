@@ -483,4 +483,8 @@ footer .copyright p {
   footer .line-footer {
     text-align: center;
   }
+
+  footer .line-footer .endereco {
+    text-align: center;
+  }
 }
